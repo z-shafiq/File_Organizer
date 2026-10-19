@@ -1,4 +1,4 @@
-
+"""
 app.py - FileOrganizer (simple version)
 Pages: Dashboard | File Explorer | Duplicate Audit | Organizer
 """
