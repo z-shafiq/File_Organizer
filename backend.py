@@ -3,7 +3,7 @@ backend.py - File System Engine (simple version)
 Scanning, hashing, duplicates, filters, export and safe organizing.
 """
 
-import osc
+import os
 import csv
 import json
 import shutil
